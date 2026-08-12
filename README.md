@@ -39,6 +39,7 @@ Follow the prompts for the path to your password file and the username to try.
 Coordinates are simple space-separated integers used with `adb shell input tap` and `adb shell input swipe`.
 
 **Safety and Legal**
+
 This tool automates login attempts. Use it only on devices and accounts you own or where you have explicit permission to perform automated authentication testing. Unauthorized access attempts are illegal and unethical.
 
 **Notes & Limitations**
