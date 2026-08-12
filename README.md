@@ -48,8 +48,10 @@ This tool automates login attempts. Use it only on devices and accounts you own 
 - The tool performs no advanced error handling or rate-limiting—use responsibly.
 
 **Contributing**
+
 If you want enhancements (e.g., coordinate calibration helper, UI, or safety controls), open an issue or submit a pull request.
 
 **Author**
+
 Original script by Tyshawn Rene.
 
